@@ -2,7 +2,7 @@ import json
 
 from py.betaex_client import BetaexApiKeyClient
 
-API_BASE_URL = 'http://52.196.122.79:9090'
+API_BASE_URL = ''
 API_KEY = ''
 API_SECRET = ''
 
